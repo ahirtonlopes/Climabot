@@ -3,7 +3,7 @@ const Pusher = require('pusher');
 const getWeatherInfo = require('./weather');
 
 // Você pode encontrar seu ID de projeto nas configurações do agente Dialogflow
-const projectId = 'small-talk-45ae6'; //https://dialogflow.com/docs/agents#settings
+const projectId = 'ID de projeto DialogFlow'; //https://dialogflow.com/docs/agents#settings
 const sessionId = '123456';
 const languageCode = 'pt-BR';
 
